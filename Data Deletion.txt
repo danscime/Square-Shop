@@ -1,0 +1,1 @@
+To delete data from profile, login to facebook profile and delete the necessary post.
